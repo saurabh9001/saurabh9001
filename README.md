@@ -26,16 +26,44 @@ Engineering student passionate about **AI & Data Science** | Building mobile app
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh9001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh9001&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+
+## 🎨 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Mobile Apps</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+<br><br>
+<p><strong>Task Manager • Notes App • Attendance Tracker</strong></p>
+<p>React Native (Expo) | Kotlin | Firebase</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Backend APIs</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200">
+<br><br>
+<p><strong>REST APIs • Auth Systems • Microservices</strong></p>
+<p>Node.js | Express | JWT | MongoDB</p>
+</div>
+</td>
+</tr>
+</table>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh9001&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
+
+<br>
 
 ## 📫 Connect With Me
 
