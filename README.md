@@ -2,73 +2,67 @@
 
 # Hi 👋, I'm Saurabh Mali
 
-### AI/ML Engineer in Progress • Generative AI • Mobile & Backend Developer
+### iOS Developer (Swift & SwiftUI) • Mobile App Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=AI+%26+Machine+Learning+Student;Generative+AI+%7C+RAG+Developer;React+Native+%7C+Android+%7C+Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Building+Mobile+Apps+with+Clean+UI;Exploring+API+Integration+%26+App+Architecture" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 📱 About Me
 
-🎓 Engineering student specializing in **Artificial Intelligence & Data Science**  
-💡 Building **AI-powered applications**, **RAG systems**, and scalable backends
+🎓 B.Tech in Artificial Intelligence & Data Science  
+💡 Passionate about building **iOS applications using Swift & SwiftUI**
 
-- 🤖 AI/ML: Python, Pandas, NumPy, Scikit-learn
-- 🧠 Generative AI: LLM Apps, **RAG (Retrieval-Augmented Generation)**, Prompt Engineering
-- 📚 Vector Databases, Embeddings, Semantic Search
-- 📱 App Dev: React Native (Expo), Android (Kotlin)
-- ⚙️ Backend: Node.js, Express, REST APIs, MongoDB, Firebase
+- 📱 iOS Development: Swift, SwiftUI, Xcode  
+- 🔗 Working with REST APIs & JSON data  
+- 🧩 Learning mobile architectures (MVVM)  
+- 🎨 Focused on clean UI/UX and smooth user experience  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 AI / ML / GenAI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+### 📱 iOS Development
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
-### 📱 App Development
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ Development & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 iOS Projects
 
-### 🤖 AI / ML / Generative AI
-- 🔎 **RAG-based Question Answering System** using embeddings & vector search
-- 🧠 Document Chatbot with semantic retrieval (PDF/Docs)
-- 📊 Data Analysis & ML Prediction Projects
-- 🚀 Model Deployment with Flask / FastAPI
+### 🃏 War Card Game – iOS App
+- Built using SwiftUI with dynamic UI updates  
+- Implemented game logic and state management using @State  
+- Designed responsive and clean user interface  
 
-### 📱 Mobile Apps
-- ✅ Task Manager App (React Native + Firebase)
-- 📝 Notes App with Cloud Sync
-- 📅 Attendance Tracker (Android)
+👉 *(Add your GitHub project link here)*
 
-### ⚙️ Backend APIs
-- 🔐 JWT Authentication System
-- 🌐 REST APIs for Mobile Apps
-- 🗂️ Microservices with Node.js
+---
+
+## 🧠 Additional Projects
+
+### 🤖 CodeMind – AI Code Intelligence
+- Built RAG-based system using embeddings & vector search  
+- Enabled natural language querying on codebases  
+
+### 🌱 Smart Farm IoT System
+- Mobile app for monitoring and controlling farm systems  
+- Integrated backend APIs for real-time data  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/saurabh9001
-- LinkedIn: https://linkedin.com/in/saurabh-mali-ai
+- GitHub: https://github.com/saurabh9001  
+- LinkedIn: https://linkedin.com/in/saurabh-mali-ai  
 
 ---
 
-⭐ *Building AI systems that combine ML, LLMs, and real-world applications*
+⭐ *Focused on building real-world iOS applications and continuously improving mobile development skills*
