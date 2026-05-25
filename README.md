@@ -2,67 +2,50 @@
 
 # Hi 👋, I'm Saurabh Mali
 
-### iOS Developer (Swift & SwiftUI) • Mobile App Enthusiast
+### iOS Developer • AI Enthusiast • Building Real-World Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Building+Mobile+Apps+with+Clean+UI;Exploring+API+Integration+%26+App+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;AI+Enthusiast+%7C+RAG+%26+LLMs;Building+Mobile+and+AI+Applications;Learning+and+Creating+Every+Day" />
 
 </div>
 
 ---
 
-## 📱 About Me
+## 🚀 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-💡 Passionate about building **iOS applications using Swift & SwiftUI**
 
-- 📱 iOS Development: Swift, SwiftUI, Xcode  
-- 🔗 Working with REST APIs & JSON data  
-- 🧩 Learning mobile architectures (MVVM)  
-- 🎨 Focused on clean UI/UX and smooth user experience  
+Passionate about building **mobile and AI applications** with focus on clean user experiences and practical solutions.
 
----
-
-## 🛠️ Tech Stack
-
-### 📱 iOS Development
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-
-### ⚙️ Development & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- 📱 Building iOS apps using Swift & SwiftUI  
+- 🤖 Exploring AI applications using Python, NLP and RAG  
+- 🔗 Working with REST APIs and integrations  
+- 🎨 Interested in UI/UX, animations and smooth app experiences  
+- 💡 Learning and building real-world products  
 
 ---
 
-## 🚀 iOS Projects
+## 🚀 Featured Projects
 
-### 🃏 War Card Game – iOS App
-- Built using SwiftUI with dynamic UI updates  
-- Implemented game logic and state management using @State  
-- Designed responsive and clean user interface  
+### 📱 Flippio – Published on App Store
 
-👉 *(Add your GitHub project link here)*
+- Memory matching game built using SwiftUI
+- Added animations, score tracking and game state management
 
----
-
-## 🧠 Additional Projects
+🔗 App: https://apps.apple.com/in/app/flippio/id6767849547
 
 ### 🤖 CodeMind – AI Code Intelligence
-- Built RAG-based system using embeddings & vector search  
-- Enabled natural language querying on codebases  
 
-### 🌱 Smart Farm IoT System
-- Mobile app for monitoring and controlling farm systems  
-- Integrated backend APIs for real-time data  
+🔗 Repo: https://github.com/saurabh9001/CodeMind-
+
+### 📚 Sanskrit Document RAG
+
+🔗 Repo: https://github.com/saurabh9001/Retrieval-Augmented-Generation-system-
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/saurabh9001  
-- LinkedIn: https://linkedin.com/in/saurabh-mali-ai  
+GitHub: https://github.com/saurabh9001  
+LinkedIn: https://linkedin.com/in/saurabh-mali-ai
 
----
-
-⭐ *Focused on building real-world iOS applications and continuously improving mobile development skills*
+⭐ Building mobile and AI applications while continuously learning.
